@@ -2,3 +2,6 @@
 __pycache__
 vivado_prj
 .vscode
+setup.sh
+myproject-fpga
+myproject-fpga.prj
